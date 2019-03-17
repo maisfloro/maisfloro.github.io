@@ -2,21 +2,34 @@
 
 # Maria Isabel Flórez Rodríguez
 
->Website: [www.maisfloro.com](www.maisfloro.com)
-
->e-mail: maisfloro@gmail.com
-
->Phone: +56 9 3123 5617
+> **Website:** [www.maisfloro.com](www.maisfloro.com)  **|  e-mail:** maisfloro@gmail.com  **|  Phone:** +56 9 3123 5617
 
 
 
-## Profile
+# Profile
 
 >Computer engineer with experience in systems administration, project management and implementation of new technologies. Leadership skills, customer success management, teamwork, goal achievement, adaptation and troubleshooting. Management of physical infrastructure and tools in the cloud (AWS, VULTR, Google Cloud), virtualization systems (Oracle VM, RHEVM), CDN, Streaming (HLS, RTMP), S.O. (Linux, Windows, HPUX, AIX) and software open source.
 
 
 
-## Work Experience
+# Work Experience
+
+
+### [DXC Technologies](http://www.dxc.technology/)
+
+`Nov/2018 - Currently`
+
+**Santiago de Chile, Chile_**
+
+```
+$ cat AboutThis.job 
+
+#Position: Administrador DevOps (LATAM)
+
+```
+
+
+
 
 
 ### [Mediastream](https://www.mediastre.am/)
@@ -50,6 +63,9 @@ Job functions:
 ```
 
 
+
+
+
 ### [Data Tools S.A.](https://www.datatools.com.co/en/)
 
 `Jul/2013 - May/2015`
@@ -67,6 +83,9 @@ Management of internal company projects. Control of technological infrastructure
 
 Virtualization system implementation (HW / SW based on OVM) in transit and transport control entities in Lima, Peru.
 ```
+
+
+
 
 
 ### [Corporación Universitaria Minuto de Dios](http://www.uniminuto.edu/)
@@ -90,23 +109,31 @@ $ cat AboutThis.job
 
 
 
-## Education
+# Education
+
 
 ### [Corporación Universitaria Minuto de Dios](http://www.uniminuto.edu/)
+
 Ingeniera de Sistemas
+
 `Graduated - 2014`
 
 
 ### [Corporación Universitaria Minuto de Dios](http://www.uniminuto.edu/)
+
 Tecnologa en Redes de Computadores y Seguridad Informática
+
 `Graduated - 2011`
 
 
 ## Certifications
-[RHCSA] (https://www.redhat.com/en/services/certification/rhcsa) 
+
+[RHCSA](https://www.redhat.com/en/services/certification/rhcsa) 
+
 `Certified - Dec/2015`
 
-[Auditor Interno ISO 27001:2005] (https://www.sgs.cl/es-es/health-safety/quality-health-safety-and-environment/risk-assessment-and-management/security-management/iso-iec-27001-2013-information-security-management-systems-internal-auditor-training)
+[Auditor Interno ISO 27001:2005](https://www.sgs.cl/es-es/health-safety/quality-health-safety-and-environment/risk-assessment-and-management/security-management/iso-iec-27001-2013-information-security-management-systems-internal-auditor-training)
+
 `Certified - Nov/2011`
 
 
