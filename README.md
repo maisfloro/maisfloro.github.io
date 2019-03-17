@@ -7,7 +7,7 @@
 ## Work Experience
 
 
-[Mediastream](https://www.mediastre.am/)
+### [Mediastream](https://www.mediastre.am/)
 
 **May/2015 - Nov/2018**
 
@@ -38,15 +38,12 @@ Job functions:
 - Project management.
 ```
 
-##### _____________________________________________________________________
 
-
-[Data Tools S.A.](https://www.datatools.com.co/en/)
+### [Data Tools S.A.](https://www.datatools.com.co/en/)
 
 **Jul/2013 - May/2015**
 
 **_Bogotá DC, Colombia_**
-
 
 ```
 $ cat AboutThis.job 
@@ -60,10 +57,9 @@ Management of internal company projects. Control of technological infrastructure
 Virtualization system implementation (HW / SW based on OVM) in transit and transport control entities in Lima, Peru.
 
 ```
-##### _____________________________________________________________________
 
 
-[Corporación Universitaria Minuto de Dios](http://www.uniminuto.edu/)
+### [Corporación Universitaria Minuto de Dios](http://www.uniminuto.edu/)
 
 **Sep/2011 - Jul/2013**
 
@@ -81,7 +77,6 @@ $ cat AboutThis.job
 
 ```
 
-##### _____________________________________________________________________
 
 
 
