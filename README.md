@@ -62,14 +62,6 @@ Job functions:
 - Project management.
 ```
 
-
-
-
-
-
-
-
-
 ### [Data Tools S.A.](https://www.datatools.com.co/en/)
 
 `Jul/2013 - May/2015`
