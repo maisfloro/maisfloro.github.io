@@ -7,20 +7,23 @@
 ## Work Experience
 
 [Mediastream](https://www.mediastre.am/)
-#### May/2015 - Nov/2018
-#### _Bogotá DC, Colombia & Santiago de Chile, Chile_ 
+**May/2015 - Nov/2018**
+
+**_Bogotá DC, Colombia & Santiago de Chile, Chile_**
 ##### _____________________________________________________
 
 
 [Data Tools S.A.](https://www.datatools.com.co/en/)
-#### Jul/2013 - May/2015 
-####  _Bogotá DC, Colombia_ 
+**Jul/2013 - May/2015**
+
+**_Bogotá DC, Colombia_**
 ##### _____________________________________________________
 
 
 [Corporación Universitaria Minuto de Dios](http://www.uniminuto.edu/)
-#### Sep/2011 - Jul/2013 
-#### _Bogotá DC, Colombia_ 
+**Sep/2011 - Jul/2013**
+
+**_Bogotá DC, Colombia_** 
 ##### _____________________________________________________
 
 
