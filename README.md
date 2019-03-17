@@ -1,7 +1,10 @@
 # Maria Isabel Flórez Rodríguez
 
-[www.maisfloro.com www.maisfloro.com](www.maisfloro.com)
+![imagensita](https://github.com/maisfloro/maisfloro.github.io/www.png) [www.maisfloro.com](www.maisfloro.com)
 
+![](./mail.png =10x10) maisfloro@gmail.com
+
+![](./phone.jpg =10x10) +56 9 3123 5617
 
 
 ## Profile
