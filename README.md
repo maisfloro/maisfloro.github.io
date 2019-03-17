@@ -9,12 +9,11 @@
 
 ### [Mediastream](https://www.mediastre.am/)
 
-**May/2015 - Nov/2018**
+`May/2015 - Nov/2018`
 
 **_Bogotá DC, Colombia & Santiago de Chile, Chile_**
 
-```
-$ cat AboutThis.job 
+```$ cat AboutThis.job 
 
 #Position: System Administrator [Sysadmin]
 
@@ -41,7 +40,7 @@ Job functions:
 
 ### [Data Tools S.A.](https://www.datatools.com.co/en/)
 
-**Jul/2013 - May/2015**
+`Jul/2013 - May/2015`
 
 **_Bogotá DC, Colombia_**
 
@@ -55,18 +54,17 @@ Administration of technological infrastructure (Servers and its Software), guara
 Management of internal company projects. Control of technological infrastructure in Colombia, Peru and Panama.
 
 Virtualization system implementation (HW / SW based on OVM) in transit and transport control entities in Lima, Peru.
-
 ```
 
 
 ### [Corporación Universitaria Minuto de Dios](http://www.uniminuto.edu/)
 
-**Sep/2011 - Jul/2013**
+`Sep/2011 - Jul/2013`
 
 **_Bogotá DC, Colombia_** 
 
-```
-$ cat AboutThis.job 
+
+```$ cat AboutThis.job 
 
 #Position: Administrador Infraestructura tecnológica
 
@@ -78,20 +76,32 @@ $ cat AboutThis.job
 ```
 
 
-
-
-
-
-
-
-
-
 ## Education
 
+### [Corporación Universitaria Minuto de Dios](http://www.uniminuto.edu/)
+Ingeniera de Sistemas
+`Graduated - 2014`
+
+
+### [Corporación Universitaria Minuto de Dios](http://www.uniminuto.edu/)
+Tecnologa en Redes de Computadores y Seguridad Informática
+`Graduated - 2011`
+
+
 ## Certifications
+[RHCSA] (https://www.redhat.com/en/services/certification/rhcsa) 
+`Certified - Dec/2015`
 
-## Skills
+[Auditor Interno ISO 27001:2005] (https://www.sgs.cl/es-es/health-safety/quality-health-safety-and-environment/risk-assessment-and-management/security-management/iso-iec-27001-2013-information-security-management-systems-internal-auditor-training)
+`Certified - Nov/2011`
 
-##
+
+## Personal Skills
+
+- [x] LeaderShip
+- [x] Teamwork
+- [x] Customer service	
+- [x] Communication	
+- [x] Troubleshooting	
 
 
