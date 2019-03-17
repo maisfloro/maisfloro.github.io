@@ -1,15 +1,20 @@
+
+
 # Maria Isabel Flórez Rodríguez
 
-![imagensita](https://github.com/maisfloro/maisfloro.github.io/www.png) [www.maisfloro.com](www.maisfloro.com)
+Web Site: [www.maisfloro.com](www.maisfloro.com)
 
-![](./mail.png =10x10) maisfloro@gmail.com
+e-mail: maisfloro@gmail.com
 
-![](./phone.jpg =10x10) +56 9 3123 5617
+Phone: +56 9 3123 5617
+
 
 
 ## Profile
 
 >Computer engineer with experience in systems administration, project management and implementation of new technologies. Leadership skills, customer success management, teamwork, goal achievement, adaptation and troubleshooting. Management of physical infrastructure and tools in the cloud (AWS, VULTR, Google Cloud), virtualization systems (Oracle VM, RHEVM), CDN, Streaming (HLS, RTMP), S.O. (Linux, Windows, HPUX, AIX) and software open source.
+
+
 
 ## Work Experience
 
@@ -20,14 +25,14 @@
 
 **_Bogotá DC, Colombia & Santiago de Chile, Chile_**
 
-```$ cat AboutThis.job 
+```
+$ cat AboutThis.job 
 
 #Position: System Administrator [Sysadmin]
 
 Implementation, administration and management of streaming end-to-end solutions, OVP and OTT in Latin America.
 
 Leader of multidisciplinary team operations at Chile and Colombia.
-
 
 Job functions:
 - Implementation / Administration of architecture IaaS, Paas, Saas.
@@ -71,7 +76,8 @@ Virtualization system implementation (HW / SW based on OVM) in transit and trans
 **_Bogotá DC, Colombia_** 
 
 
-```$ cat AboutThis.job 
+```
+$ cat AboutThis.job 
 
 #Position: Administrador Infraestructura tecnológica
 
@@ -81,6 +87,7 @@ Virtualization system implementation (HW / SW based on OVM) in transit and trans
 - Document management and user training in the Alfresco Share open source tool.
 
 ```
+
 
 
 ## Education
@@ -101,6 +108,8 @@ Tecnologa en Redes de Computadores y Seguridad Informática
 
 [Auditor Interno ISO 27001:2005] (https://www.sgs.cl/es-es/health-safety/quality-health-safety-and-environment/risk-assessment-and-management/security-management/iso-iec-27001-2013-information-security-management-systems-internal-auditor-training)
 `Certified - Nov/2011`
+
+
 
 
 ## Personal Skills
