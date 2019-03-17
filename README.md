@@ -2,11 +2,11 @@
 
 # Maria Isabel Flórez Rodríguez
 
->Website: _[www.maisfloro.com](www.maisfloro.com)
+>Website: [www.maisfloro.com](www.maisfloro.com)
 
->e-mail: _maisfloro@gmail.com_
+>e-mail: maisfloro@gmail.com
 
->Phone: _+56 9 3123 5617_
+>Phone: +56 9 3123 5617
 
 
 
