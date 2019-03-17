@@ -66,6 +66,10 @@ Job functions:
 
 
 
+
+
+
+
 ### [Data Tools S.A.](https://www.datatools.com.co/en/)
 
 `Jul/2013 - May/2015`
@@ -83,6 +87,10 @@ Management of internal company projects. Control of technological infrastructure
 
 Virtualization system implementation (HW / SW based on OVM) in transit and transport control entities in Lima, Peru.
 ```
+
+
+
+
 
 
 
@@ -106,6 +114,10 @@ $ cat AboutThis.job
 - Document management and user training in the Alfresco Share open source tool.
 
 ```
+
+
+
+
 
 
 
