@@ -6,6 +6,7 @@
 
 ## Work Experience
 [![May2015 Nov2018](http://maisfloro.com)](http://maisfloro.com)
+[![lala lalala](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 * Santiago de Chile, Chile* 
 [Mediastream](https://www.mediastre.am/)
 
