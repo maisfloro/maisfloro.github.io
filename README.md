@@ -6,25 +6,82 @@
 
 ## Work Experience
 
+
 [Mediastream](https://www.mediastre.am/)
+
 **May/2015 - Nov/2018**
 
 **_Bogotá DC, Colombia & Santiago de Chile, Chile_**
-##### _____________________________________________________
+
+```
+$ cat AboutThis.job 
+
+#Position: System Administrator [Sysadmin]
+
+Implementation, administration and management of streaming end-to-end solutions, OVP and OTT in Latin America.
+
+Leader of multidisciplinary team operations at Chile and Colombia.
+
+
+Job functions:
+- Implementation / Administration of architecture IaaS, Paas, Saas.
+- Implementation / Administration of On Premise, Cloud (AWS) and Hybrid Systems.
+- Implementation / Administration of systems with high network traffic and concurrency: Coverage of special events with large TV and sports networks in Chile, Colombia, Uruguay, Mexico, United States and Brazil.
+- Implementation / Administration of CDN (Content Delivery Network) in the main Pop of Chile, Colombia, United States and Brazil.
+- Implementation / Administration of processes (Pipeline).
+- Implementation / centralized management of systems.
+- Implementation / Administration of devices focused on streaming protocols (HLS, RTMP, Multicast, Elemental, Tricaster).
+- Customer service.
+- Incident Management.
+- Cost management.
+- Management of agile work methodologies.
+- Project management.
+```
+
+##### _____________________________________________________________________
 
 
 [Data Tools S.A.](https://www.datatools.com.co/en/)
+
 **Jul/2013 - May/2015**
 
 **_Bogotá DC, Colombia_**
-##### _____________________________________________________
+
+
+```
+$ cat AboutThis.job 
+
+#Position: Gestor de Plataforma
+
+Administration of technological infrastructure (Servers and its Software), guaranteeing the contracted uptime and allowing the full operation of the clients' business processes.
+
+Management of internal company projects. Control of technological infrastructure in Colombia, Peru and Panama.
+
+Virtualization system implementation (HW / SW based on OVM) in transit and transport control entities in Lima, Peru.
+
+```
+##### _____________________________________________________________________
 
 
 [Corporación Universitaria Minuto de Dios](http://www.uniminuto.edu/)
+
 **Sep/2011 - Jul/2013**
 
 **_Bogotá DC, Colombia_** 
-##### _____________________________________________________
+
+```
+$ cat AboutThis.job 
+
+#Position: Administrador Infraestructura tecnológica
+
+- Functional management of Open Ldap on Linux.
+- Administration e-mail platform Zimbra.
+- IP telephony administration based on Asterisk at a national level and support to the institution's contact center.
+- Document management and user training in the Alfresco Share open source tool.
+
+```
+
+##### _____________________________________________________________________
 
 
 
