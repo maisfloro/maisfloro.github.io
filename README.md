@@ -14,17 +14,32 @@
 
 # Work Experience
 
+### [Globant](https://www.globant.com/)
 
-### [DXC Technologies](http://www.dxc.technology/)
-
-`Nov/2018 - Currently`
+`Julio/2019 - Present`
 
 **Santiago de Chile, Chile_**
 
 ```
 $ cat AboutThis.job 
 
-#Position: Administrador DevOps (LATAM)
+#Position: Cloud Engineer Senior
+
+```
+
+
+
+
+### [DXC Technologies](http://www.dxc.technology/)
+
+`Nov/2018 - Julio/2019`
+
+**Santiago de Chile, Chile_**
+
+```
+$ cat AboutThis.job 
+
+#Position: Administrador Cloud (LATAM)
 
 ```
 
