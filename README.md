@@ -137,7 +137,7 @@ $ cat AboutThis.job
 
 Master Universitario en Seguridad Informática
 
-`Currently studying`
+`2020 - Currently studying`
 
 
 ### [Corporación Universitaria Minuto de Dios](http://www.uniminuto.edu/)
