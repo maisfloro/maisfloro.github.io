@@ -2,7 +2,9 @@
 
 # Maria Isabel Flórez Rodríguez
 
-> **LinkedIn:** [https://cl.linkedin.com/in/maisfloro](https://cl.linkedin.com/in/maisfloro)  **/  e-mail:** maisfloro@gmail.com  **/  Phone:** +56 9 4189 1275
+> **LinkedIn:** [https://cl.linkedin.com/in/maisfloro](https://cl.linkedin.com/in/maisfloro)  
+**/  e-mail:** maisfloro@gmail.com  
+**/  Phone:** +56 9 4189 1275
 
 
 
