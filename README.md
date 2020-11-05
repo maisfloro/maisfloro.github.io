@@ -133,6 +133,13 @@ $ cat AboutThis.job
 # Education
 
 
+### [Universidad Internacional de la Rioja](https://www.unir.net/ingenieria/master-seguridad-informatica/)
+
+Master Universitario en Seguridad Informática
+
+`Currently studying`
+
+
 ### [Corporación Universitaria Minuto de Dios](http://www.uniminuto.edu/)
 
 Ingeniera de Sistemas
