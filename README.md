@@ -31,11 +31,11 @@ $ cat AboutThis.job
 ```
 Configuration/Deploy/Troubleshooting all services AWS of account MACH:
 
-CICD: Configuration/Deploy/Troubleshooting pipelines (ECS/EC2 Microservices, Lambdas), storage, networking, logs, notification systems.
-IaC: Configuration/Deploy/Troubleshooting all resources on AWS via Cloudformation.
-Configuration/Deploy/Troubleshooting Security Pilar (Well Architected Framework): Cloudtrail, Config, GuardDuty.
-Configuration/Deploy/Troubleshooting BigData tools (Basic Experience): Glue, Sagemaker, Quicksight.
-Cost management.
+- CICD: Configuration/Deploy/Troubleshooting pipelines (ECS/EC2 Microservices, Lambdas), storage, networking, logs, notification systems.
+- IaC: Configuration/Deploy/Troubleshooting all resources on AWS via Cloudformation.
+- Configuration/Deploy/Troubleshooting Security Pilar (Well Architected Framework): Cloudtrail, Config, GuardDuty.
+- Configuration/Deploy/Troubleshooting BigData tools (Basic Experience): Glue, Sagemaker, Quicksight.
+- Cost management.
 
 
 ```
